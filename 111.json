@@ -1,6 +1,1 @@
-{
-  "version": 2,
-  "routes": [
-      {"src": "/(.*)","dest": "https://fhyhj6j5.herokuapp.com/$1"}
-  ]
-}
+
